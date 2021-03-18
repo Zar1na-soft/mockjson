@@ -1,17 +1,5 @@
 {
-"Post":[
 
-{"id": 1,"email":"Gamer@gmail.com","password":"Asdfgh124!"},
-
-{"id": 2,"email":"TheIll-informed@gmail.com","password":"5F[~D:sj"},
-
-{"id": 3,"email":"ItPathetic@mail.ru","password":"j;t8WrZi"},
-
-{"id": 4,"email":"ppCharming@gmail.com","password":"?kH8<g;-"},
-
-{"id": 5,"email":"AsFierce@mail.ru","password":"w8_&rMb["}
-
-],
 
 "Artists":[
 
@@ -25,8 +13,7 @@
 
 {"name":"Chris Stapleton","birth day":"15.04.1978","albums":"Travaller", "awards":"BET Awards, American Music Awards", "years active": "2000–present"},
 
-],
-
+]
 
 
 }
